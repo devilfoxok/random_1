@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import Button from "./components/Button";
 import MoveArounder from "./components/MoveArounder";
-import PeopleList from "./components/peopleList";
+import PeopleList from "./components/PeopleList";
 import PriceTag from "./components/PriceTag";
 
 export interface IPeople {
